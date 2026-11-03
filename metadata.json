@@ -1,0 +1,6 @@
+{
+  "name": "Foundify · Campus Lost & Found",
+  "description": "Official Parul University Lost & Found web application with AI match calling and campus custody tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
